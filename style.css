@@ -1,0 +1,19 @@
+#nasa-container {
+  text-align: center;
+  padding: 20px;
+}
+
+#title {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+#picture {
+  width: 500px;
+  height: 500px;
+  margin-bottom: 20px;
+}
+
+#description {
+  font-size: 18px;
+}
